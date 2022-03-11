@@ -46,7 +46,6 @@ def save():
 # ---------------------------- UI SETUP ------------------------------- #
 
 
-
 window = Tk()
 window.title("Password Manager")
 window.config(padx=40, pady=40)
